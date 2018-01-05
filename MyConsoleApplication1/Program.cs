@@ -11,6 +11,7 @@ namespace MyConsoleApplication1
         static void Main(string[] args)
         {
             //added a line
+            //added second line
         }
     }
 }
